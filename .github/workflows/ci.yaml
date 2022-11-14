@@ -1,0 +1,6 @@
+name: shopApp
+on: [push]
+jobs: 
+     steps:
+       - name: install packages
+       - run: npm i
