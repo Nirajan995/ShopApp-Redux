@@ -2,5 +2,5 @@ name: shopApp
 on: [push]
 jobs: 
      steps:
-       - name: install packages
+       - name: Install packages
        - run: npm i
